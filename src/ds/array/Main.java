@@ -11,7 +11,7 @@ public class Main {
 
       //  numbers.removeAt(0);
         System.out.println(numbers.indexOf(100));
-        
+
 
 
         numbers.print();
